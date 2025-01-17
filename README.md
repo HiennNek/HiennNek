@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiennnek" alt="hiennnek" /></a> </p>
 
-- 🔭 I’m currently working on [A way to improve Bruce project's function](github.com/HiennNek/Bruce)
+- 🔭 I’m currently working on [A way to improve Bruce project's function](https://github.com/HiennNek/Bruce)
 
 - 🌱 I’m currently learning **Arduino, Platform IO and C/C++**
 
-- 👨‍💻 All of my projects are available at my repositories [github.com/HiennNek?tab=repositories](github.com/HiennNek?tab=repositories)
+- 👨‍💻 All of my projects are available at my [repositories](https://github.com/HiennNek?tab=repositories)
 
-- 📝 I regularly write articles on [hienfromvietnam.blogspot.com](hienfromvietnam.blogspot.com)
+- 📝 I regularly write articles on [hienfromvietnam.blogspot.com](https://hienfromvietnam.blogspot.com/)
 
 - 📫 How to reach me **By Zalo: (+84) 829 655 660**
 
