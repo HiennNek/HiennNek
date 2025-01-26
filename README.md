@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiennnek" alt="hiennnek" /></a> </p>
 
-- 🔭 I’m currently working on [A way to improve Bruce project's function](https://github.com/HiennNek/Bruce)
+- 🔭 I’m currently working on [FZero Firmware](https://github.com/HiennNek/FZero-Firmware)
 
 - 🌱 I’m currently learning **Arduino, Platform IO and C/C++**
 
