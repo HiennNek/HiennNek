@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiennnek" alt="hiennnek" /></a> </p>
 
-- 🔭 I’m currently working on [FZero Firmware](https://github.com/HiennNek/FZero-Firmware)
-
 - 🌱 I’m currently learning **Arduino, Platform IO and C/C++**
 
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/HiennNek?tab=repositories)
