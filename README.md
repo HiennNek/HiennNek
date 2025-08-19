@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hien</h1>
-<h3 align="center">A grade 8 student from HCMC, Vietnam</h3>
+<h3 align="center">A grade 9 student from HCMC, Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiennnek&label=Profile%20views&color=0e75b6&style=flat" alt="hiennnek" /> </p>
 
