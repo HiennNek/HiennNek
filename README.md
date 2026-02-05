@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hien</h1>
 <h3 align="center">A grade 9 student from HCMC, Vietnam</h3>
 
+- 🌱 Pronoun: she/her
+
 - 🔭 I’m currently working on [LMS360 Hack](https://github.com/HiennNek/lms360hack)
 
 - 🌱 I’m currently learning **Arduino, PlatformIO, Javascript and C++**
