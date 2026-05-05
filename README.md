@@ -20,6 +20,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HiennNek&show_icons=true&locale=en&layout=compact" alt="HiennNek" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HiennNek&show_icons=true&locale=en" alt="HiennNek" /></p>
-
