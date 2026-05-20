@@ -18,5 +18,3 @@
   <img src="https://skillicons.dev/icons?i=arduino,bash,blender,cpp,css,express,git,html,js,linux,nodejs,py,react,tailwind" />
   <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HiennNek&show_icons=true&locale=en&layout=compact" alt="HiennNek" /></p>
